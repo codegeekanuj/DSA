@@ -1,0 +1,1 @@
+Enter a decimal number: 1
