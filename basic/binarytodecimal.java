@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DecimalToReversedBinary {
+public class binarytodecimal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -10,6 +10,7 @@ public class DecimalToReversedBinary {
         int reversedBinary = reverseBinary(decimalToBinary(decimalNumber));
 
         System.out.println("Reversed binary as integer: " + reversedBinary);
+        scanner.close();
     }
 
     private static int decimalToBinary(int decimalNumber) {
