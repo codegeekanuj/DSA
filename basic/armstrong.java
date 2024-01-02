@@ -15,9 +15,9 @@ public class armstrong {
 			s=s+Math.pow(rem, digits);
 			t=t/10;
 		}
-		if(s==n){
+		if(s==n)
 		return true;
-        }
+        
 		
 		return false;
 	}
