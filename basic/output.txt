@@ -1,1 +1,1 @@
-false
+Enter a first number: Enter a second number: HCF of  numbers 510,92 is: 2

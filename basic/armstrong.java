@@ -1,6 +1,5 @@
 import java.util.*;
 
-import jdk.nashorn.internal.parser.Scanner;
 public class armstrong {
 	
 	public static void main(String[] args) {
