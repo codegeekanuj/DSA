@@ -14,6 +14,7 @@ public class Solution {
                 }
             }
             ms=ms+s;
+            s=0;
         }
         System.out.println(ms);
         sc.close();
