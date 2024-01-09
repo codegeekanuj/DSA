@@ -1,0 +1,3 @@
+    class print1toN{
+        
+    }
